@@ -8,7 +8,6 @@
 <p align="center">
    <img width="60" title="Jira" src="https://img.shields.io/badge/-Jira-32CD32?style=for-the-badge&logo=jira&logoColor=white">
    <img width="85" title="Postman" src="https://img.shields.io/badge/-Postman-6A54DF?style=for-the-badge&logo=postman&logoColor=white">
-   <img width="87" title="Swagger" src="https://img.shields.io/badge/-Swagger-32CD32?style=for-the-badge&logo=Swagger&logoColor=white">
    <img width="75" title="DevTools" src="https://img.shields.io/badge/-DevTools-6A54DF?logo=&style=for-the-badge&logoColor=white">
    <img width="70" title="MySQL" src="https://img.shields.io/badge/-MySQL-32CD32?style=for-the-badge&logo=MySQL&logoColor=white">
    <img width="103" title="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-6A54DF?style=for-the-badge&logo=PostgreSQL&logoColor=white">
